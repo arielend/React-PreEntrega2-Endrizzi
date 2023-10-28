@@ -1,0 +1,20 @@
+.itemDetail{
+    background-color: rgba(0, 204, 255, 0.249);
+    padding: 2rem;
+    display: flex;
+}
+
+.itemDetailImg{
+    width: 40rem;
+}
+
+.img{
+    width: 100%;
+}
+
+.itemDetailDesc{
+    width: 36rem;
+    padding: 0  2rem;
+    display: flex;
+    flex-direction: column;
+}

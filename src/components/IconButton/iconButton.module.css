@@ -1,0 +1,20 @@
+.iconButton{
+    border: .2rem solid #0CF;
+    background-color: #FFF;
+    height: 4rem;
+    border-radius: 0.9rem;
+    padding: 0.15rem 1rem;
+    transition: all ease-in-out 0.2s;
+}
+
+.iconButtonImg{
+    width: 2rem;
+}
+
+.iconButton:hover {
+    background-color: #0071e2;
+}
+
+.iconButton:disabled{
+    background-color: red;
+}
